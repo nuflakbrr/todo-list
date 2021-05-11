@@ -171,7 +171,7 @@ select {
 /* footer */
 .footer {
     font-size: 14px;
-    position: fixed;
+    position: absolute;
     top: 43em;
     left: 0px;
     right: 0px;
