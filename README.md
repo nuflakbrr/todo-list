@@ -1,2 +1,19 @@
-<h1 align="center">Hello There! I'm Naufal Akbar Nugroho</h1>
-<h3 align="center">And this is my todo list website</h3>
+# nuflakbrr.github.io
+
+Personal Portfolio Website.
+
+## Authors
+
+Contributors names and contact info
+
+Naufal Akbar Nugroho  
+[@kbrnugroho](https://instagram.com/kbrnugroho)
+
+## Version History
+
+- 1.0.0
+  - [Initial Release](CHANGELOG.md)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
