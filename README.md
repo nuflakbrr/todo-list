@@ -1,6 +1,6 @@
-# nuflakbrr.github.io
+# nuflakbrr.github.io/todo-list
 
-Personal Portfolio Website.
+My Todo List Website.
 
 ## Authors
 
