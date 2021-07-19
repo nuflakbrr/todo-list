@@ -8,4 +8,3 @@ Initial release.
 
 - Readme
 - Change log
-- License
